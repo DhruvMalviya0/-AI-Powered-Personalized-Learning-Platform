@@ -13,6 +13,7 @@ The AI-Powered Personalized Learning Platform enhances digital learning by lever
 - **Quiz Generator:** AI-crafted quizzes tailored to topics and difficulty levels.
 - **Real-Time Collaboration:** Group chats, discussion forums, and video study sessions.
 - **Video Summarization:** AI-powered notes and summaries from educational videos.
+- **Leaderboard:** Track top performers and foster healthy competition.
 
 ## 🎯 Core Elements of the Leveling System
 
@@ -38,6 +39,19 @@ The AI-Powered Personalized Learning Platform enhances digital learning by lever
 ### Frontend Implementation:
 - Build a LevelProgress component to visualize the user’s XP and level.
 
+## 🏆 Leaderboard System
+
+### Ranking:
+- Rank users based on total XP earned.
+- Display top performers in a dedicated leaderboard section.
+
+### Backend Setup:
+- Create an endpoint to fetch the top users sorted by XP.
+
+### Frontend Implementation:
+- Build a Leaderboard component to display ranked users.
+- Show user avatars, names, and XP points.
+
 ## 🛠️ Tech Stack
 
 ### Frontend:
@@ -60,6 +74,3 @@ The AI-Powered Personalized Learning Platform enhances digital learning by lever
 - Database: MongoDB Atlas
 - Storage: AWS S3/Firebase
 - Redis for caching and performance optimization
-
-
-
