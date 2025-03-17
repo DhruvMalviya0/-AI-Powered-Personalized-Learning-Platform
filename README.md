@@ -27,9 +27,6 @@ React.js + Next.js
 
 Tailwind CSS for styling
 
-Zustand/Redux Toolkit for state management
-
-ShadCN for UI components
 
 Backend
 
@@ -45,15 +42,13 @@ AI/ML Integration
 
 OpenAI GPT-4 for chatbots and quizzes
 
-BERT and TensorFlow.js for personalized recommendations
-
-Speech-to-text AI for hands-free learning
+TensorFlow.js for personalized recommendations
 
 Deployment & Storage
 
 Frontend: Vercel/Netlify
 
-Backend: Fly.io/Render
+Backend: Render
 
 Database: MongoDB Atlas
 
