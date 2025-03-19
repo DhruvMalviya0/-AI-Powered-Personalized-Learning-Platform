@@ -1,4 +1,4 @@
-# AI-Powered Personalized Learning Platform
+# Doraemon Chat Bot
 
 An intelligent learning platform designed to personalize education, provide instant doubt resolution, and foster collaboration through AI-powered tools.
 
